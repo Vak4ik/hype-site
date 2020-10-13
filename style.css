@@ -20,10 +20,10 @@ body {
 .page-header {
   margin: 0 0 160px;
   padding: 32px 0 32px;
-  background-image: url(file:///C:/Users/%D0%98%D0%B2%D0%B0%D0%BD/Desktop/HTML%20Academy/%D0%A1%D0%B0%D0%B9%D1%82-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/portfolio-step-1/%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C.png);
-  background-size: 100px;
+  background-image: url('img/бесконечность.png');
   background-repeat: no-repeat;
   background-position: 74% 50%;
+  background-size: 100px;
 }
 
 .page-header .container,
