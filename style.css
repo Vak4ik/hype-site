@@ -20,10 +20,7 @@ body {
 .page-header {
   margin: 0 0 160px;
   padding: 32px 0 32px;
-  background-image: url('img/бесконечность.png');
-  background-repeat: no-repeat;
-  background-position: 1350px 40px;
-  background-size: 100px;
+  
 }
 
 .page-header .container,
@@ -195,4 +192,12 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+
+header .container {
+  background-image: url('img/бесконечность.png');
+  background-size: 100px;
+  background-repeat: no-repeat;
+  position: relative;
+  background-position: 83% 50%;
 }
